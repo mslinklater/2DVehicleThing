@@ -1,5 +1,11 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Scripts/GUI/BackgroundGrid.cs.meta
 guid: 4f3fe697164774f3e9cad138fd01d768
+=======
+guid: 83ba432ee41fc424398e096f86ac7b4d
+timeCreated: 1524774624
+licenseType: Free
+>>>>>>> 6c96d038a7eccf7a42c61a51c8c03adeafe0557a:Assets/Scripts/GUI/BackgroundGrid.cs.meta
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2

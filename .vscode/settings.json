@@ -52,5 +52,10 @@
         "ProjectSettings/":true,
         "temp/":true,
         "Temp/":true
+<<<<<<< HEAD
     }
+=======
+    },
+    "editor.codeLens": false
+>>>>>>> 6c96d038a7eccf7a42c61a51c8c03adeafe0557a
 }
